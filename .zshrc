@@ -32,8 +32,6 @@ fpath=($fpath "/home/sumanjs/.zfunctions")
 autoload -U promptinit; promptinit
 prompt typewritten
 
-
-
 alias ls="eza --icons=always"
 alias cls="clear"
 alias src="source ~/.zshrc"
@@ -42,12 +40,6 @@ export PATH="$PATH:/opt/nvim-linux64/bin"
 alias kitten="~/.local/kitty.app/bin/kitten"
 alias cat="batcat"
 
-
-
 export PATH=$HOME/local/bin:$PATH
 export LD_LIBRARY_PATH=$HOME/local/lib:$LD_LIBRARY_PATH
 export MANPATH=$HOME/local/share/man:$MANPATH
-
-export CPLUS_INCLUDE_PATH=/usr/include/c++/11:/usr/include/x86_64-linux-gnu/c++/11
-export LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/11
-
