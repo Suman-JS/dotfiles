@@ -9,7 +9,6 @@ return {
   { import = "astrocommunity.completion.cmp-spell" },
   { import = "astrocommunity.completion.supermaven-nvim" },
   { import = "astrocommunity.pack.html-css" },
-  { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.prisma" },
 }
