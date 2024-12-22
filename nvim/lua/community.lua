@@ -11,4 +11,7 @@ return {
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.prisma" },
+  { import = "astrocommunity.bars-and-lines.bufferline-nvim" },
+  { import = "astrocommunity.bars-and-lines.lualine-nvim" },
+  { import = "astrocommunity.bars-and-lines.vim-illuminate" },
 }
